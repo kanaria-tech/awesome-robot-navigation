@@ -61,14 +61,15 @@ By gathering and organizing these materials, we aim to accelerate innovation, en
 
 ---
 
-# Datasets & benchmarks & challenges
+# Datasets & benchmarks & challenges & workshops
 | #  | Name | 
+|----|------| 
 | 1  | [FrodoBots-2K](https://huggingface.co/datasets/frodobots/FrodoBots-2K) |
 | 2  | [Socially CompliAnt Navigation Dataset (SCAND): A Large-Scale Dataset Of Demonstrations For Social Navigation](https://www.cs.utexas.edu/~xiao/SCAND/SCAND.html) |
 | 3  | [SocNavBench: A Grounded Simulation Testing Framework for Evaluating Social Navigation](https://dl.acm.org/doi/10.1145/3476413) |
 | 4  | [crowd-eval-tool](https://github.com/epfl-lasa/crowdbot-evaluation-tools) |
 | 5  | [The 2025 ICRA Arena Challenge](https://linhdoan.io/arena-challenge/#challenge-overview) |
-
+| 6  | [Unsolved Social Navigation](https://unsolvedsocialnav.pages.dev/papers) |
 
 
 
