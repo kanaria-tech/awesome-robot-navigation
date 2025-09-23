@@ -51,6 +51,14 @@ By gathering and organizing these materials, we aim to accelerate innovation, en
 | 1  | 2025/05  | [Reinforcement Learning: An Overview](https://arxiv.org/pdf/2412.05265) |
 | 2  | 2025/05  | [Multi-Agent Inverse Reinforcement Learning in Real World Unstructured Pedestrian Crowds](https://arxiv.org/pdf/2405.16439) |
 
+# Researchers and research organizations 
+| #  | Name | 
+|----|------| 
+| 1  | [AMRL: Autonomous Mobile Robotics Laboratory @ Texas U.](https://amrl.cs.utexas.edu/people.html)|
+| 2  | [RAIL: Robotic AI & Learning Lab @ BAIR](https://rail.eecs.berkeley.edu/publications.html)|
+| 3  | [PAIR: People, AI & Robots @ Toronto](https://www.pair.toronto.edu/publications/)|
+| 3  | [Noriake Hirose](https://sites.google.com/view/noriaki-hirose/)|
+
 ---
 
 
