@@ -11,8 +11,8 @@ By gathering and organizing these materials, we aim to accelerate innovation, en
 ## Robot (social) navigation
 | #  |   Date   | Title | 
 |----|----------|-------| 
-| 1  | 2023/04  | [Core Challenges of Social Robot Navigation: A Survey](https://dl.acm.org/doi/10.1145/3583741) |
-| 2  | 2020/05  | [VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation](https://arxiv.org/pdf/2005.04259) |
+| 1  | 2020/05  | [VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation](https://arxiv.org/pdf/2005.04259) |
+| 2  | 2023/04  | [Core Challenges of Social Robot Navigation: A Survey](https://dl.acm.org/doi/10.1145/3583741) |
 | 3  | 2023/05  | [GNM: A General Navigation Model to Drive Any Robot](https://arxiv.org/pdf/2210.03370) |
 | 4  | 2023/09  | [Principles and Guidelines for Evaluating Social Robot Navigation Algorithms](https://arxiv.org/abs/2306.16740) |
 | 5  | 2023/10  | [NoMaD: Goal Masked Diffusion Policies for Navigation and Exploration](https://arxiv.org/abs/2310.07896) |
@@ -28,7 +28,7 @@ By gathering and organizing these materials, we aim to accelerate innovation, en
 | 15 | 2024/12  | [Social-LLaVA: Enhancing Robot Navigation through Human-Language Reasoning in Social Spaces](https://arxiv.org/abs/2501.09024) |
 | 16 | 2025/03  | [Vi-LAD: Vision-Language Attention Distillation for Socially-Aware Robot Navigation in Dynamic Environments](https://arxiv.org/pdf/2503.09820) |
 | 17 | 2025/03  | [OLiVia-Nav: An Online Lifelong Vision Language Approach for Mobile Robot Social Navigation](https://arxiv.org/abs/2409.13675) |
-| 18 | 2025/05  | [CRESTE: Scalable Mapless Navigation withInternet Scale Priors and Counterfactual Guidance](https://arxiv.org/pdf/2503.03921v1) |
+| 18 | 2025/05  | [CRESTE: Scalable Mapless Navigation with Internet Scale Priors and Counterfactual Guidance](https://arxiv.org/pdf/2503.03921v1) |
 | 19 | 2025/06  | [SLAM Resources](https://gist.github.com/kscottz/9c787afebea8429c4d396a170042362e) |
 
 ## Navigation World models & VLA
@@ -40,6 +40,10 @@ By gathering and organizing these materials, we aim to accelerate innovation, en
 | 4  | 2025/04 | [Navigation World Models](https://arxiv.org/pdf/2412.03572) |
 | 5  | 2025/07 | [Embodied AI Agents: Modeling the World](https://arxiv.org/pdf/2506.22355v1) |
 | 6  | 2025/07 | [ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning](https://jasper0314-huang.github.io/thinkact-vla/) |
+| 7  | 2025/08 | [Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications](https://vla-survey.github.io) |
+| 8  | 2025/08 | [MolmoAct: An Action Reasoning Model that reasons in 3D space](https://allenai.org/blog/molmoact) |
+
+
 
 ## Reinforcement Learning (RL) for navigation
 | #  |   Date   | Title |
@@ -49,7 +53,6 @@ By gathering and organizing these materials, we aim to accelerate innovation, en
 
 ---
 
-# Research organizations 
-| #  | Name | 
-|----|------| 
-| 1  | |
+
+
+
