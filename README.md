@@ -61,7 +61,7 @@ By gathering and organizing these materials, we aim to accelerate innovation, en
 
 ---
 
-# Datasets & benchmarks & challenges & workshops
+# Datasets & benchmarks & challenges & workshops @ simulators
 | #  | Name | 
 |----|------| 
 | 1  | [FrodoBots-2K](https://huggingface.co/datasets/frodobots/FrodoBots-2K) |
@@ -70,6 +70,7 @@ By gathering and organizing these materials, we aim to accelerate innovation, en
 | 4  | [crowd-eval-tool](https://github.com/epfl-lasa/crowdbot-evaluation-tools) |
 | 5  | [The 2025 ICRA Arena Challenge](https://linhdoan.io/arena-challenge/#challenge-overview) |
 | 6  | [Unsolved Social Navigation](https://unsolvedsocialnav.pages.dev/papers) |
+| 7  | [SimWorld: An Open-ended Realistic Simulator for Autonomous Agents in Physical and Social Worlds](https://simworld.org) | 
 
 
 
