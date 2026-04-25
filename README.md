@@ -48,6 +48,7 @@ By gathering and organizing these materials, we aim to accelerate innovation, en
 |----|----------|-------|
 | 1  | 2025/05  | [Reinforcement Learning: An Overview](https://arxiv.org/pdf/2412.05265) |
 | 2  | 2025/05  | [Multi-Agent Inverse Reinforcement Learning in Real World Unstructured Pedestrian Crowds](https://arxiv.org/pdf/2405.16439) |
+| 3  | 2026/04  | [NaviFormer: A Deep Reinforcement Learning Transformer-like Model to Holistically Solve the Navigation Problem](https://arxiv.org/abs/2604.16967) |
 
 ---
 
