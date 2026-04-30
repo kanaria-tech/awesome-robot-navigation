@@ -30,6 +30,10 @@ By gathering and organizing these materials, we aim to accelerate innovation, en
 | 17 | 2025/03  | [OLiVia-Nav: An Online Lifelong Vision Language Approach for Mobile Robot Social Navigation](https://arxiv.org/abs/2409.13675) |
 | 18 | 2025/05  | [CRESTE: Scalable Mapless Navigation with Internet Scale Priors and Counterfactual Guidance](https://arxiv.org/pdf/2503.03921v1) |
 | 19 | 2025/06  | [SLAM Resources](https://gist.github.com/kscottz/9c787afebea8429c4d396a170042362e) |
+| 20 | 2026/04  | [HiPAN: Hierarchical Posture-Adaptive Navigation for Quadruped Robots in Unstructured 3D Environments](https://arxiv.org/abs/2604.26504) |
+| 21 | 2026/04  | [Walk With Me: Long-Horizon Social Navigation for Human-Centric Outdoor Assistance](https://arxiv.org/abs/2604.26839) |
+| 22 | 2026/04  | [Safe Navigation using Neural Radiance Fields via Reachable Sets](https://arxiv.org/abs/2604.26899) |
+| 23 | 2026/04  | [Three-Step Nav: A Hierarchical Global-Local Planner for Zero-Shot Vision-and-Language Navigation](https://arxiv.org/abs/2604.26946) |
 
 ## Navigation World models & VLA
 | #  |   Date  | Title |
@@ -48,6 +52,7 @@ By gathering and organizing these materials, we aim to accelerate innovation, en
 |----|----------|-------|
 | 1  | 2025/05  | [Reinforcement Learning: An Overview](https://arxiv.org/pdf/2412.05265) |
 | 2  | 2025/05  | [Multi-Agent Inverse Reinforcement Learning in Real World Unstructured Pedestrian Crowds](https://arxiv.org/pdf/2405.16439) |
+| 3  | 2026/04  | [Rule-based High-Level Coaching for Goal-Conditioned Reinforcement Learning in Search-and-Rescue UAV Missions Under Limited-Simulation Training](https://arxiv.org/abs/2604.26833) |
 
 ---
 
