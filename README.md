@@ -42,12 +42,14 @@ By gathering and organizing these materials, we aim to accelerate innovation, en
 | 6  | 2025/07 | [ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning](https://jasper0314-huang.github.io/thinkact-vla/) |
 | 7  | 2025/08 | [Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications](https://vla-survey.github.io) |
 | 8  | 2025/08 | [MolmoAct: An Action Reasoning Model that reasons in 3D space](https://allenai.org/blog/molmoact) |
+| 9  | 2026/04 | [World Model for Robot Learning: A Comprehensive Survey](https://arxiv.org/abs/2605.00080) |
 
 ## Reinforcement Learning (RL) for navigation
 | #  |   Date   | Title |
 |----|----------|-------|
 | 1  | 2025/05  | [Reinforcement Learning: An Overview](https://arxiv.org/pdf/2412.05265) |
 | 2  | 2025/05  | [Multi-Agent Inverse Reinforcement Learning in Real World Unstructured Pedestrian Crowds](https://arxiv.org/pdf/2405.16439) |
+| 3  | 2026/05  | [Do We Really Need Immediate Resets? Rethinking Collision Handling for Efficient Robot Navigation](https://arxiv.org/abs/2605.02192) |
 
 ---
 
@@ -70,7 +72,8 @@ By gathering and organizing these materials, we aim to accelerate innovation, en
 | 4  | [crowd-eval-tool](https://github.com/epfl-lasa/crowdbot-evaluation-tools) |
 | 5  | [The 2025 ICRA Arena Challenge](https://linhdoan.io/arena-challenge/#challenge-overview) |
 | 6  | [Unsolved Social Navigation](https://unsolvedsocialnav.pages.dev/papers) |
-| 7  | [SimWorld: An Open-ended Realistic Simulator for Autonomous Agents in Physical and Social Worlds](https://simworld.org) | 
+| 7  | [SimWorld: An Open-ended Realistic Simulator for Autonomous Agents in Physical and Social Worlds](https://simworld.org) |
+| 8  | [MiniVLA-Nav v1: Multi-scene simulation dataset for language-conditioned robot navigation](https://huggingface.co/datasets/alibustami/miniVLA-Nav) |
 
 
 
