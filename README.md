@@ -30,6 +30,9 @@ By gathering and organizing these materials, we aim to accelerate innovation, en
 | 17 | 2025/03  | [OLiVia-Nav: An Online Lifelong Vision Language Approach for Mobile Robot Social Navigation](https://arxiv.org/abs/2409.13675) |
 | 18 | 2025/05  | [CRESTE: Scalable Mapless Navigation with Internet Scale Priors and Counterfactual Guidance](https://arxiv.org/pdf/2503.03921v1) |
 | 19 | 2025/06  | [SLAM Resources](https://gist.github.com/kscottz/9c787afebea8429c4d396a170042362e) |
+| 20 | 2026/05  | [DynoSLAM: Dynamic SLAM with Generative Graph Neural Networks for Real-World Social Navigation](https://arxiv.org/abs/2605.02759) |
+| 21 | 2026/05  | [Proactive Instance Navigation with Comparative Judgment for Ambiguous User Queries](https://arxiv.org/abs/2605.06223) |
+| 22 | 2026/05  | [Plug-and-Play Label Map Diffusion for Universal Goal-Oriented Navigation](https://arxiv.org/abs/2605.05960) |
 
 ## Navigation World models & VLA
 | #  |   Date  | Title |
@@ -48,6 +51,8 @@ By gathering and organizing these materials, we aim to accelerate innovation, en
 |----|----------|-------|
 | 1  | 2025/05  | [Reinforcement Learning: An Overview](https://arxiv.org/pdf/2412.05265) |
 | 2  | 2025/05  | [Multi-Agent Inverse Reinforcement Learning in Real World Unstructured Pedestrian Crowds](https://arxiv.org/pdf/2405.16439) |
+| 3  | 2026/05  | [Cross-Modal Navigation with Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2605.06595) |
+| 4  | 2026/05  | [Do We Really Need Immediate Resets? Rethinking Collision Handling for Efficient Robot Navigation](https://arxiv.org/abs/2605.02192) |
 
 ---
 
