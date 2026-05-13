@@ -30,6 +30,8 @@ By gathering and organizing these materials, we aim to accelerate innovation, en
 | 17 | 2025/03  | [OLiVia-Nav: An Online Lifelong Vision Language Approach for Mobile Robot Social Navigation](https://arxiv.org/abs/2409.13675) |
 | 18 | 2025/05  | [CRESTE: Scalable Mapless Navigation with Internet Scale Priors and Counterfactual Guidance](https://arxiv.org/pdf/2503.03921v1) |
 | 19 | 2025/06  | [SLAM Resources](https://gist.github.com/kscottz/9c787afebea8429c4d396a170042362e) |
+| 20 | 2026/05  | [Bi3: A Biplatform, Bicultural, Biperson Dataset for Social Robot Navigation](https://arxiv.org/abs/2605.06863) |
+| 21 | 2026/05  | [Beyond Isolation: A Unified Benchmark for General-Purpose Navigation](https://arxiv.org/abs/2605.09441) |
 
 ## Navigation World models & VLA
 | #  |   Date  | Title |
@@ -42,12 +44,15 @@ By gathering and organizing these materials, we aim to accelerate innovation, en
 | 6  | 2025/07 | [ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning](https://jasper0314-huang.github.io/thinkact-vla/) |
 | 7  | 2025/08 | [Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications](https://vla-survey.github.io) |
 | 8  | 2025/08 | [MolmoAct: An Action Reasoning Model that reasons in 3D space](https://allenai.org/blog/molmoact) |
+| 9  | 2026/05 | [World Action Models: The Next Frontier in Embodied AI](https://arxiv.org/abs/2605.12090) |
 
 ## Reinforcement Learning (RL) for navigation
 | #  |   Date   | Title |
 |----|----------|-------|
 | 1  | 2025/05  | [Reinforcement Learning: An Overview](https://arxiv.org/pdf/2412.05265) |
 | 2  | 2025/05  | [Multi-Agent Inverse Reinforcement Learning in Real World Unstructured Pedestrian Crowds](https://arxiv.org/pdf/2405.16439) |
+| 3  | 2026/05  | [Cross-Modal Navigation with Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2605.06595) |
+| 4  | 2026/05  | [EvoNav: Evolutionary Reward Function Design for Robot Navigation with Large Language Models](https://arxiv.org/abs/2605.11859) |
 
 ---
 
@@ -70,7 +75,9 @@ By gathering and organizing these materials, we aim to accelerate innovation, en
 | 4  | [crowd-eval-tool](https://github.com/epfl-lasa/crowdbot-evaluation-tools) |
 | 5  | [The 2025 ICRA Arena Challenge](https://linhdoan.io/arena-challenge/#challenge-overview) |
 | 6  | [Unsolved Social Navigation](https://unsolvedsocialnav.pages.dev/papers) |
-| 7  | [SimWorld: An Open-ended Realistic Simulator for Autonomous Agents in Physical and Social Worlds](https://simworld.org) | 
+| 7  | [SimWorld: An Open-ended Realistic Simulator for Autonomous Agents in Physical and Social Worlds](https://simworld.org) |
+| 8  | [Bi3: Biplatform, Bicultural, Biperson Social Robot Navigation Dataset](https://arxiv.org/abs/2605.06863) |
+| 9  | [OmniNavBench: Unified Benchmark for General-Purpose Navigation](https://arxiv.org/abs/2605.09441) |
 
 
 
