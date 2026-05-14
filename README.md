@@ -10,7 +10,7 @@ By gathering and organizing these materials, we aim to accelerate innovation, en
 # Research papers
 ## Robot (social) navigation
 | #  |   Date   | Title | 
-|----|----------|-------| 
+|----|----------|---------| 
 | 1  | 2020/05  | [VectorNet: Encoding HD Maps and Agent Dynamics from Vectorized Representation](https://arxiv.org/pdf/2005.04259) |
 | 2  | 2023/04  | [Core Challenges of Social Robot Navigation: A Survey](https://dl.acm.org/doi/10.1145/3583741) |
 | 3  | 2023/05  | [GNM: A General Navigation Model to Drive Any Robot](https://arxiv.org/pdf/2210.03370) |
@@ -30,6 +30,7 @@ By gathering and organizing these materials, we aim to accelerate innovation, en
 | 17 | 2025/03  | [OLiVia-Nav: An Online Lifelong Vision Language Approach for Mobile Robot Social Navigation](https://arxiv.org/abs/2409.13675) |
 | 18 | 2025/05  | [CRESTE: Scalable Mapless Navigation with Internet Scale Priors and Counterfactual Guidance](https://arxiv.org/pdf/2503.03921v1) |
 | 19 | 2025/06  | [SLAM Resources](https://gist.github.com/kscottz/9c787afebea8429c4d396a170042362e) |
+| 20 | 2026/05  | [HCSG: Human-Centric Semantic-Geometric Reasoning for Vision-Language Navigation](https://arxiv.org/abs/2605.13321) |
 
 ## Navigation World models & VLA
 | #  |   Date  | Title |
@@ -42,18 +43,22 @@ By gathering and organizing these materials, we aim to accelerate innovation, en
 | 6  | 2025/07 | [ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning](https://jasper0314-huang.github.io/thinkact-vla/) |
 | 7  | 2025/08 | [Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications](https://vla-survey.github.io) |
 | 8  | 2025/08 | [MolmoAct: An Action Reasoning Model that reasons in 3D space](https://allenai.org/blog/molmoact) |
+| 9  | 2026/05 | [DeepSight: Long-Horizon World Modeling via Latent States Prediction for End-to-End Autonomous Driving](https://arxiv.org/abs/2605.10564) |
+| 10 | 2026/05 | [What Limits Vision-and-Language Navigation?](https://arxiv.org/abs/2605.13328) |
 
 ## Reinforcement Learning (RL) for navigation
 | #  |   Date   | Title |
-|----|----------|-------|
+|----|----------|---------|
 | 1  | 2025/05  | [Reinforcement Learning: An Overview](https://arxiv.org/pdf/2412.05265) |
 | 2  | 2025/05  | [Multi-Agent Inverse Reinforcement Learning in Real World Unstructured Pedestrian Crowds](https://arxiv.org/pdf/2405.16439) |
+| 3  | 2026/05  | [Robot Squid Game: Quadrupedal Locomotion for Traversing Narrow Tunnels](https://arxiv.org/abs/2605.13665) |
+| 4  | 2026/05  | [3D RL-DWA: A Hybrid Reinforcement Learning and Dynamic Window Approach for Goal-Directed Local Navigation in Multi-DoF Robots](https://arxiv.org/abs/2605.12689) |
 
 ---
 
 # Researchers and research organizations 
 | #  | Name | 
-|----|------| 
+|----|---------| 
 | 1  | [AMRL: Autonomous Mobile Robotics Laboratory @ Texas U.](https://amrl.cs.utexas.edu/people.html)|
 | 2  | [RAIL: Robotic AI & Learning Lab @ BAIR](https://rail.eecs.berkeley.edu/publications.html)|
 | 3  | [PAIR: People, AI & Robots @ Toronto](https://www.pair.toronto.edu/publications/)|
@@ -63,7 +68,7 @@ By gathering and organizing these materials, we aim to accelerate innovation, en
 
 # Datasets & benchmarks & challenges & workshops @ simulators
 | #  | Name | 
-|----|------| 
+|----|---------| 
 | 1  | [FrodoBots-2K](https://huggingface.co/datasets/frodobots/FrodoBots-2K) |
 | 2  | [Socially CompliAnt Navigation Dataset (SCAND): A Large-Scale Dataset Of Demonstrations For Social Navigation](https://www.cs.utexas.edu/~xiao/SCAND/SCAND.html) |
 | 3  | [SocNavBench: A Grounded Simulation Testing Framework for Evaluating Social Navigation](https://dl.acm.org/doi/10.1145/3476413) |
@@ -71,6 +76,3 @@ By gathering and organizing these materials, we aim to accelerate innovation, en
 | 5  | [The 2025 ICRA Arena Challenge](https://linhdoan.io/arena-challenge/#challenge-overview) |
 | 6  | [Unsolved Social Navigation](https://unsolvedsocialnav.pages.dev/papers) |
 | 7  | [SimWorld: An Open-ended Realistic Simulator for Autonomous Agents in Physical and Social Worlds](https://simworld.org) | 
-
-
-
