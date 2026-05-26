@@ -30,6 +30,9 @@ By gathering and organizing these materials, we aim to accelerate innovation, en
 | 17 | 2025/03  | [OLiVia-Nav: An Online Lifelong Vision Language Approach for Mobile Robot Social Navigation](https://arxiv.org/abs/2409.13675) |
 | 18 | 2025/05  | [CRESTE: Scalable Mapless Navigation with Internet Scale Priors and Counterfactual Guidance](https://arxiv.org/pdf/2503.03921v1) |
 | 19 | 2025/06  | [SLAM Resources](https://gist.github.com/kscottz/9c787afebea8429c4d396a170042362e) |
+| 20 | 2026/05  | [CANINE: Coaching Visually Impaired Users for Interactive Navigation with a Robot Guide Dog](https://arxiv.org/abs/2605.19501) |
+| 21 | 2026/05  | [D-CLING: Prior-Preserving Depth-Conditioned Fine-Tuning for Navigation Foundation Models](https://arxiv.org/abs/2605.19690) |
+| 22 | 2026/05  | [HumanFlow: Diffusion-Driven MAV Navigation Among Humans via Tightly-Coupled Motion Tracking, Forecasting, and Control](https://arxiv.org/abs/2605.25685) |
 
 ## Navigation World models & VLA
 | #  |   Date  | Title |
@@ -42,6 +45,8 @@ By gathering and organizing these materials, we aim to accelerate innovation, en
 | 6  | 2025/07 | [ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning](https://jasper0314-huang.github.io/thinkact-vla/) |
 | 7  | 2025/08 | [Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications](https://vla-survey.github.io) |
 | 8  | 2025/08 | [MolmoAct: An Action Reasoning Model that reasons in 3D space](https://allenai.org/blog/molmoact) |
+| 9  | 2026/05 | [HEAT: Heterogeneous End-to-End Autonomous Driving via Trajectory-Guided World Models](https://arxiv.org/abs/2605.19631) |
+| 10 | 2026/05 | [Drift-Resistant Navigation World Model with Anchored Epipolar Guidance](https://arxiv.org/abs/2605.24761) |
 
 ## Reinforcement Learning (RL) for navigation
 | #  |   Date   | Title |
@@ -57,7 +62,8 @@ By gathering and organizing these materials, we aim to accelerate innovation, en
 | 1  | [AMRL: Autonomous Mobile Robotics Laboratory @ Texas U.](https://amrl.cs.utexas.edu/people.html)|
 | 2  | [RAIL: Robotic AI & Learning Lab @ BAIR](https://rail.eecs.berkeley.edu/publications.html)|
 | 3  | [PAIR: People, AI & Robots @ Toronto](https://www.pair.toronto.edu/publications/)|
-| 3  | [Noriake Hirose](https://sites.google.com/view/noriaki-hirose/)|
+| 4  | [Noriake Hirose](https://sites.google.com/view/noriaki-hirose/)|
+| 5  | [Smart Robotics Lab @ Imperial College London](http://wp.doc.ic.ac.uk/sleutene/) |
 
 ---
 
