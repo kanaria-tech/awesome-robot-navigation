@@ -30,6 +30,8 @@ By gathering and organizing these materials, we aim to accelerate innovation, en
 | 17 | 2025/03  | [OLiVia-Nav: An Online Lifelong Vision Language Approach for Mobile Robot Social Navigation](https://arxiv.org/abs/2409.13675) |
 | 18 | 2025/05  | [CRESTE: Scalable Mapless Navigation with Internet Scale Priors and Counterfactual Guidance](https://arxiv.org/pdf/2503.03921v1) |
 | 19 | 2025/06  | [SLAM Resources](https://gist.github.com/kscottz/9c787afebea8429c4d396a170042362e) |
+| 20 | 2026/05  | [Look Further: Socially-Compliant Navigation System in Residential Buildings](https://arxiv.org/abs/2605.26710) |
+| 21 | 2026/05  | [RCSP: Risk-Sensitive Conjectural Scenario Planning for Safe Dynamic Robot Navigation](https://arxiv.org/abs/2605.26348) |
 
 ## Navigation World models & VLA
 | #  |   Date  | Title |
@@ -48,6 +50,7 @@ By gathering and organizing these materials, we aim to accelerate innovation, en
 |----|----------|-------|
 | 1  | 2025/05  | [Reinforcement Learning: An Overview](https://arxiv.org/pdf/2412.05265) |
 | 2  | 2025/05  | [Multi-Agent Inverse Reinforcement Learning in Real World Unstructured Pedestrian Crowds](https://arxiv.org/pdf/2405.16439) |
+| 3  | 2026/05  | [Trust, Geometry, and Rules: A Credibility-Aware Reinforcement Learning Framework for Safe USV Navigation under Uncertainty](https://arxiv.org/abs/2605.26974) |
 
 ---
 
