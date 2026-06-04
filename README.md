@@ -42,6 +42,8 @@ By gathering and organizing these materials, we aim to accelerate innovation, en
 | 6  | 2025/07 | [ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning](https://jasper0314-huang.github.io/thinkact-vla/) |
 | 7  | 2025/08 | [Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications](https://vla-survey.github.io) |
 | 8  | 2025/08 | [MolmoAct: An Action Reasoning Model that reasons in 3D space](https://allenai.org/blog/molmoact) |
+| 9  | 2026/05 | [Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments](https://arxiv.org/abs/2605.30280) |
+| 10 | 2026/06 | [AirDreamer: Generalist Drone Navigation with World Models](https://arxiv.org/abs/2606.03252) |
 
 ## Reinforcement Learning (RL) for navigation
 | #  |   Date   | Title |
