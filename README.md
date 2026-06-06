@@ -42,12 +42,14 @@ By gathering and organizing these materials, we aim to accelerate innovation, en
 | 6  | 2025/07 | [ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning](https://jasper0314-huang.github.io/thinkact-vla/) |
 | 7  | 2025/08 | [Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications](https://vla-survey.github.io) |
 | 8  | 2025/08 | [MolmoAct: An Action Reasoning Model that reasons in 3D space](https://allenai.org/blog/molmoact) |
+| 9  | 2026/06 | [Co-training with Ego-centric Video and Demonstration for Robot Navigation Task](https://arxiv.org/abs/2606.01951) |
 
 ## Reinforcement Learning (RL) for navigation
 | #  |   Date   | Title |
 |----|----------|-------|
 | 1  | 2025/05  | [Reinforcement Learning: An Overview](https://arxiv.org/pdf/2412.05265) |
 | 2  | 2025/05  | [Multi-Agent Inverse Reinforcement Learning in Real World Unstructured Pedestrian Crowds](https://arxiv.org/pdf/2405.16439) |
+| 3  | 2026/06  | [Robust Scene Transfer for PointGoal Navigation via Privileged-Sensor–Guided Contrastive Learning](https://arxiv.org/abs/2606.05506) |
 
 ---
 
