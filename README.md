@@ -30,6 +30,9 @@ By gathering and organizing these materials, we aim to accelerate innovation, en
 | 17 | 2025/03  | [OLiVia-Nav: An Online Lifelong Vision Language Approach for Mobile Robot Social Navigation](https://arxiv.org/abs/2409.13675) |
 | 18 | 2025/05  | [CRESTE: Scalable Mapless Navigation with Internet Scale Priors and Counterfactual Guidance](https://arxiv.org/pdf/2503.03921v1) |
 | 19 | 2025/06  | [SLAM Resources](https://gist.github.com/kscottz/9c787afebea8429c4d396a170042362e) |
+| 20 | 2026/06  | [FloVerse: Floor Plan-Guided Multi-Modal Navigation](https://arxiv.org/abs/2606.14267) |
+| 21 | 2026/06  | [AnyGoal: Vision-Language Guided Multi-Agent Exploration for Training-Free Lifelong Navigation](https://arxiv.org/abs/2606.13878) |
+| 22 | 2026/06  | [Guided Diffusion with Distilled Vision-Language Reliability for Aerial Navigation](https://arxiv.org/abs/2606.13883) |
 
 ## Navigation World models & VLA
 | #  |   Date  | Title |
@@ -42,12 +45,14 @@ By gathering and organizing these materials, we aim to accelerate innovation, en
 | 6  | 2025/07 | [ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning](https://jasper0314-huang.github.io/thinkact-vla/) |
 | 7  | 2025/08 | [Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications](https://vla-survey.github.io) |
 | 8  | 2025/08 | [MolmoAct: An Action Reasoning Model that reasons in 3D space](https://allenai.org/blog/molmoact) |
+| 9  | 2026/06 | [Hy-Embodied-0.5-VLA: From Vision-Language-Action Models to a Real-World Robot Learning Stack](https://arxiv.org/abs/2606.14409) |
 
 ## Reinforcement Learning (RL) for navigation
 | #  |   Date   | Title |
 |----|----------|-------|
 | 1  | 2025/05  | [Reinforcement Learning: An Overview](https://arxiv.org/pdf/2412.05265) |
 | 2  | 2025/05  | [Multi-Agent Inverse Reinforcement Learning in Real World Unstructured Pedestrian Crowds](https://arxiv.org/pdf/2405.16439) |
+| 3  | 2026/06  | [Safe Reinforcement Learning of Autonomous Highway Driving: A Unified Framework for Safety and Efficiency](https://arxiv.org/abs/2606.14609) |
 
 ---
 
