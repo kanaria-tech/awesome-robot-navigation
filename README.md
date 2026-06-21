@@ -30,6 +30,9 @@ By gathering and organizing these materials, we aim to accelerate innovation, en
 | 17 | 2025/03  | [OLiVia-Nav: An Online Lifelong Vision Language Approach for Mobile Robot Social Navigation](https://arxiv.org/abs/2409.13675) |
 | 18 | 2025/05  | [CRESTE: Scalable Mapless Navigation with Internet Scale Priors and Counterfactual Guidance](https://arxiv.org/pdf/2503.03921v1) |
 | 19 | 2025/06  | [SLAM Resources](https://gist.github.com/kscottz/9c787afebea8429c4d396a170042362e) |
+| 20 | 2026/06  | [VISTA: Scale-Aware Visual Navigation via Action History Conditioning](https://arxiv.org/abs/2606.17294) |
+| 21 | 2026/06  | [GroundControl: Anticipating Navigation Failures in Vision-Language Agents via Trajectory-Consistent Uncertainty Estimates](https://arxiv.org/abs/2606.20479) |
+| 22 | 2026/06  | [Slow Brain, Fast Planner: Latency-Resilient VLM-Augmented Urban Navigation](https://arxiv.org/abs/2606.20458) |
 
 ## Navigation World models & VLA
 | #  |   Date  | Title |
@@ -42,12 +45,14 @@ By gathering and organizing these materials, we aim to accelerate innovation, en
 | 6  | 2025/07 | [ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning](https://jasper0314-huang.github.io/thinkact-vla/) |
 | 7  | 2025/08 | [Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications](https://vla-survey.github.io) |
 | 8  | 2025/08 | [MolmoAct: An Action Reasoning Model that reasons in 3D space](https://allenai.org/blog/molmoact) |
+| 9  | 2026/06 | [World Engine: Towards the Era of Post-Training for Autonomous Driving](https://arxiv.org/abs/2606.19836) |
 
 ## Reinforcement Learning (RL) for navigation
 | #  |   Date   | Title |
 |----|----------|-------|
 | 1  | 2025/05  | [Reinforcement Learning: An Overview](https://arxiv.org/pdf/2412.05265) |
 | 2  | 2025/05  | [Multi-Agent Inverse Reinforcement Learning in Real World Unstructured Pedestrian Crowds](https://arxiv.org/pdf/2405.16439) |
+| 3  | 2026/06  | [A Neuromorphic Reinforcement Learning Framework for Efficient Pathfinding in Robotic Mobile Fulfillment Systems](https://arxiv.org/abs/2606.20031) |
 
 ---
 
@@ -71,6 +76,3 @@ By gathering and organizing these materials, we aim to accelerate innovation, en
 | 5  | [The 2025 ICRA Arena Challenge](https://linhdoan.io/arena-challenge/#challenge-overview) |
 | 6  | [Unsolved Social Navigation](https://unsolvedsocialnav.pages.dev/papers) |
 | 7  | [SimWorld: An Open-ended Realistic Simulator for Autonomous Agents in Physical and Social Worlds](https://simworld.org) | 
-
-
-
