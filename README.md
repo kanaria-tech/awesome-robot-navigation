@@ -30,6 +30,9 @@ By gathering and organizing these materials, we aim to accelerate innovation, en
 | 17 | 2025/03  | [OLiVia-Nav: An Online Lifelong Vision Language Approach for Mobile Robot Social Navigation](https://arxiv.org/abs/2409.13675) |
 | 18 | 2025/05  | [CRESTE: Scalable Mapless Navigation with Internet Scale Priors and Counterfactual Guidance](https://arxiv.org/pdf/2503.03921v1) |
 | 19 | 2025/06  | [SLAM Resources](https://gist.github.com/kscottz/9c787afebea8429c4d396a170042362e) |
+| 20 | 2026/06  | [Vision-Language Models for Deployable Social Robot Navigation: Bridging Semantic Reasoning and Low-Level Control](https://arxiv.org/abs/2606.28760) |
+| 21 | 2026/06  | [HUMEMBR: Learning Human Routines for Predictive Embodied Navigation](https://arxiv.org/abs/2606.30404) |
+| 22 | 2026/07  | [Robots Ask the Way: Communication-Enabled Social Navigation](https://arxiv.org/abs/2607.01044) |
 
 ## Navigation World models & VLA
 | #  |   Date  | Title |
@@ -42,12 +45,17 @@ By gathering and organizing these materials, we aim to accelerate innovation, en
 | 6  | 2025/07 | [ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning](https://jasper0314-huang.github.io/thinkact-vla/) |
 | 7  | 2025/08 | [Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications](https://vla-survey.github.io) |
 | 8  | 2025/08 | [MolmoAct: An Action Reasoning Model that reasons in 3D space](https://allenai.org/blog/molmoact) |
+| 9  | 2026/06 | [Pondering the Way: Spatial-perceiving World Action Model for Embodied Navigation](https://arxiv.org/abs/2606.29908) |
+| 10 | 2026/06 | [FutureNav: Unified World-Action Modeling for Vision-and-Language Navigation](https://arxiv.org/abs/2606.30367) |
 
 ## Reinforcement Learning (RL) for navigation
 | #  |   Date   | Title |
 |----|----------|-------|
 | 1  | 2025/05  | [Reinforcement Learning: An Overview](https://arxiv.org/pdf/2412.05265) |
 | 2  | 2025/05  | [Multi-Agent Inverse Reinforcement Learning in Real World Unstructured Pedestrian Crowds](https://arxiv.org/pdf/2405.16439) |
+| 3  | 2026/06  | [CORE Planner: Contextual-memory Oriented Reinforcement-learning in Unknown Environments for Robot Navigation](https://arxiv.org/abs/2606.29222) |
+| 4  | 2026/06  | [RoamFlow: Reinforcement-Aligned One-Step Action MeanFlow Policy for Image-Goal Navigation](https://arxiv.org/abs/2606.29934) |
+| 5  | 2026/06  | [LeCropFollow: Latent Space Planning for Navigation in Unstructured Crop Fields](https://arxiv.org/abs/2606.31941) |
 
 ---
 
@@ -57,7 +65,8 @@ By gathering and organizing these materials, we aim to accelerate innovation, en
 | 1  | [AMRL: Autonomous Mobile Robotics Laboratory @ Texas U.](https://amrl.cs.utexas.edu/people.html)|
 | 2  | [RAIL: Robotic AI & Learning Lab @ BAIR](https://rail.eecs.berkeley.edu/publications.html)|
 | 3  | [PAIR: People, AI & Robots @ Toronto](https://www.pair.toronto.edu/publications/)|
-| 3  | [Noriake Hirose](https://sites.google.com/view/noriaki-hirose/)|
+| 4  | [Noriake Hirose](https://sites.google.com/view/noriaki-hirose/)|
+| 5  | [Mir Feroskhan: Intelligent Cybernetics Lab @ NTU Singapore](https://www.ntu.edu.sg/research/faculty-directory/detail/rp00204)|
 
 ---
 
@@ -71,6 +80,7 @@ By gathering and organizing these materials, we aim to accelerate innovation, en
 | 5  | [The 2025 ICRA Arena Challenge](https://linhdoan.io/arena-challenge/#challenge-overview) |
 | 6  | [Unsolved Social Navigation](https://unsolvedsocialnav.pages.dev/papers) |
 | 7  | [SimWorld: An Open-ended Realistic Simulator for Autonomous Agents in Physical and Social Worlds](https://simworld.org) | 
+| 8  | [LeCropFollow: latent-planning code, models, and field data for agricultural row-crop navigation](https://felipe-tommaselli.github.io/lecropfollow) |
 
 
 
